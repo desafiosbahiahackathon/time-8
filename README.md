@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O ** ESCOLHER NOME ** é uma aplicação para gerência, acompanhamento e prevenção de violência
+O ** Respeita as Mina ** é uma aplicação para gerência, acompanhamento e prevenção de violência
 doméstica e familiar.
 
 Ele é composto de 3 modulos
@@ -14,6 +14,14 @@ A aplicação é toda feita em Ruby, com apresentação usando modulos em Vue.js
 ao Facebook e Telegram.
 
 Para mais informações sobre uso verificar a wiki.
+
+## Modulos
+
+O Modulo API, tem a central de controle da polícia com acesso aos dados e formulários.
+
+O Modulo Web tem a parte visual que se conecta a API.
+
+O Ronda Bot oferece a parte de suporte com politicas de prevenção através de redes de mensagems.
 
 ## Suporte e Desenvolvimento
 
